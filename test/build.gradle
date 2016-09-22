@@ -24,4 +24,4 @@ dependencies {
     compile 'com.android.support:appcompat-v7:24.1.1'
 }
 
-appy from: 'https://raw.githubusercontent.com/yaming116/Android_Notes/master/apk_copy/publish_maven.gradle'
+apply from: 'https://raw.githubusercontent.com/yaming116/Android_Notes/master/apk_copy/publish_maven.gradle'
